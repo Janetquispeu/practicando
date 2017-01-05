@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	var template="<div>{{lugar}}</div>"
 	$("#btn").on("click",function(){
-		$.getJSON("demo.json",function(value){
+		$.getJSON("https://janetquispeu.github.io/practicando/demo.json",function(value){
 			console.log(value);
 			var html=" ";
 			$.each(value.results,function(val,object){

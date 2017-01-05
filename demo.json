@@ -1,16 +1,15 @@
-{
-    "lugares": [
+[
     	{
     		"nombreServicio": "Grifo Primax",
 				"latitud": "-12.120948",
     		"longitud": "-77.034825",
-    	}
+    	},
 
     	{
     		"nombreServicio": "Clínica Stella Maris",
     		"latitud": "12.121213",
     		"longitud": "-77.038810",
-    	}
+    	},
 
     	{
     		"nombreServicio": "FedEx",
@@ -18,5 +17,4 @@
     		"longitud": "-77.038360",
     	}
 
-	]
-}
+]
