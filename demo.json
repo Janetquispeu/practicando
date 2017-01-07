@@ -9,7 +9,7 @@
 
         {
             "nombreServicio": "Clínica Stella Maris",
-            "latitud": "12.121213",
+            "latitud": "-12.121213",
             "longitud": "-77.038810"
         },
 
@@ -17,6 +17,16 @@
             "nombreServicio": "FedEx",
             "latitud":" -12.117908",
             "longitud": "-77.038360"
+        },
+        {
+            "nombreServicio": "Centro de Atención Integral Contra la Violencia Hacia las Mujeres - Warmi Wasi",
+            "latitud":"  -12.117917",
+            "longitud": "-77.037708"
+        },
+        {
+            "nombreServicio": "Mafisa Motors",
+            "latitud":" -12.117529",
+            "longitud": "-77.031421"
         }
 
     ]
