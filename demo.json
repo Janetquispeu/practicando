@@ -1,5 +1,6 @@
 
-{"lugares" :[
+{   "datos":"Hola",
+    "lugares" :[
         {
             "nombreServicio": "Grifo Primax",
             "latitud": "-12.120948",
