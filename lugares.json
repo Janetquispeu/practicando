@@ -4,28 +4,33 @@
         {
             "nombreFruta": "Manzana",
             "latitud": "-12.120948",
+            "url":"http://historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2015/09/manzana.jpg",
             "longitud": "-77.034825"
         },
 
         {
             "nombreFruta": "ManzanaA",
             "latitud": "-12.121213",
+            "url":"http://historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2015/09/manzana.jpg",
             "longitud": "-77.038810"
         },
 
         {
             "nombreFruta": "ManzanaB",
             "latitud":" -12.117908",
+            "url":"http://historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2015/09/manzana.jpg",
             "longitud": "-77.038360"
         },
         {
             "nombreFruta": "ManzanaC",
             "latitud":"  -12.117917",
+            "url":"http://historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2015/09/manzana.jpg",
             "longitud": "-77.037708"
         },
         {
             "nombreFruta": "ManzanaD",
             "latitud":" -12.117529",
+            "url":"http://historiasdelahistoria.com/wordpress-2.3.1-ES-0.1-FULL/wp-content/uploads/2015/09/manzana.jpg",
             "longitud": "-77.031421"
         }
 
