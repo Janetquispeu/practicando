@@ -1,0 +1,33 @@
+
+{   "datos":"Hola",
+    "manzana" :[
+        {
+            "nombreFruta": "Manzana",
+            "latitud": "-12.120948",
+            "longitud": "-77.034825"
+        },
+
+        {
+            "nombreFruta": "ManzanaA",
+            "latitud": "-12.121213",
+            "longitud": "-77.038810"
+        },
+
+        {
+            "nombreFruta": "ManzanaB",
+            "latitud":" -12.117908",
+            "longitud": "-77.038360"
+        },
+        {
+            "nombreFruta": "ManzanaC",
+            "latitud":"  -12.117917",
+            "longitud": "-77.037708"
+        },
+        {
+            "nombreFruta": "ManzanaD",
+            "latitud":" -12.117529",
+            "longitud": "-77.031421"
+        }
+
+    ]
+}
