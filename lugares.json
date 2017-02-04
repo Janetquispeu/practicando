@@ -1,37 +1,58 @@
 
 {  
-    "manzana" :[
+    "palta" :[
         {
-            "nombre": "Manzana",
-            "latitud": "-12.120948",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160",
-            "longitud": "-77.034825"
+            "nombre": "Palta - La Libertad",
+            "latitud": "-8.143593300000001",
+            "longitud": "-78.47519449999999",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+            
         },
 
         {
-            "nombre": "ManzanaA",
-            "latitud": "-12.121213",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160",
-            "longitud": "-77.038810"
+            "nombre": "Palta - Ancash",
+            "latitud": "-9.3250497",
+            "longitud": "-77.56194189999997",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+            
         },
 
         {
-            "nombre": "ManzanaB",
-            "latitud":" -12.117908",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160",
-            "longitud": "-77.038360"
+            "nombre": "Palta - Huánuco",
+            "latitud":" -9.4505511",
+            "longitud": "-76.27108329999999",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+            
         },
         {
-            "nombre": "ManzanaC",
-            "latitud":"  -12.117917",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160",
-            "longitud": "-77.037708"
+            "nombre": "Palta - Junín",
+            "latitud":"  -11.335798",
+            "longitud": "-75.3412179",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
         },
         {
-            "nombre": "ManzanaD",
-            "latitud":" -12.117529",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160",
-            "longitud": "-77.031421"
+            "nombre": "Palta - Lima",
+            "latitud":" -12.0463667",
+            "longitud": "-77.0427891",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+        },
+        {
+            "nombre": "Palta - Ayacucho",
+            "latitud":"  -13.1638737",
+            "longitud": "-74.22356409999998",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+        },
+        {
+            "nombre": "Palta - Apurimac",
+            "latitud":"  -14.0504533",
+            "longitud": "-73.08774900000003",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
+        },
+        {
+            "nombre": "Palta - Ica",
+            "latitud":"  -14.07546",
+            "longitud": "-75.7341811",
+            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
         }
 
     ],
@@ -61,61 +82,6 @@
         },
         {
             "nombre": "Esparragos - Ica",
-            "latitud":"  -14.07546",
-            "longitud": "-75.7341811",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-        }
-    ],
-    "palta" :[
-        {
-            "nombrePalta": "Palta - La Libertad",
-            "latitud": "-8.143593300000001",
-            "longitud": "-78.47519449999999",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-            
-        },
-
-        {
-            "nombrePalta": "Palta - Ancash",
-            "latitud": "-9.3250497",
-            "longitud": "-77.56194189999997",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-            
-        },
-
-        {
-            "nombrePalta": "Palta - Huánuco",
-            "latitud":" -9.4505511",
-            "longitud": "-76.27108329999999",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-            
-        },
-        {
-            "nombrePalta": "Palta - Junín",
-            "latitud":"  -11.335798",
-            "longitud": "-75.3412179",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-        },
-        {
-            "nombrePalta": "Palta - Lima",
-            "latitud":" -12.0463667",
-            "longitud": "-77.0427891",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-        },
-        {
-            "nombrePalta": "Palta - Ayacucho",
-            "latitud":"  -13.1638737",
-            "longitud": "-74.22356409999998",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-        },
-        {
-            "nombrePalta": "Palta - Apurimac",
-            "latitud":"  -14.0504533",
-            "longitud": "-73.08774900000003",
-            "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
-        },
-        {
-            "nombrePalta": "Palta - Ica",
             "latitud":"  -14.07546",
             "longitud": "-75.7341811",
             "url":"https://megaricoss.files.wordpress.com/2015/11/atlantic-penthouse-e28093-vedado-1.jpg?w=1160"
